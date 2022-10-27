@@ -1,4 +1,4 @@
-# ckip_absa_en
+# absa_en
   - Studying weakly-supervised aspect-based sentiment analysis (English)
   - Academia Sinica CKIP Lab 
   - Summer Internship 2022
